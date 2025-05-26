@@ -3,7 +3,7 @@
 <h2>👨‍💻 University Projects:</h2>
 
 - <b>Applied mathematics</b>
-  - []()
+  - [Using Python for understanding a function of two variables](https://github.com/thuanromoli/Using-Python-for-understanding-a-function-of-two-variables/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
