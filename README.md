@@ -3,7 +3,7 @@
 <h2>👨‍💻 University Projects:</h2>
 
 - <b>Applied mathematics</b>
-  - [Using Python for understanding a function of two variables](https://github.com/thuanromoli/Using-Python-for-understanding-a-function-of-two-variables)
+  - [Using Python for understanding a function of two variables](https://github.com/thuanromoli/using-python-for-understanding-a-function-of-two-variables)
   - [Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)
 
 
