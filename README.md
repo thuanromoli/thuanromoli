@@ -4,7 +4,7 @@
 
 - <b>Applied mathematics</b>
   - [Using Python for understanding a function of two variables](https://github.com/thuanromoli/Using-Python-for-understanding-a-function-of-two-variables)
-  - [Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/Making-change-tiling-and-Fibonacci-sequence-in-combinatorics)
+  - [Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)
 
 
 <h2> 🤳 Connect with me:</h2>
