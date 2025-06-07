@@ -7,7 +7,7 @@
   - [Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)
 
 - <b>Pure mathematics</b>
-  - [Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-cosets-representatives)
+  - [Constructing quotient groups using cosets representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-cosets-representatives)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Van Thuan Romoli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
