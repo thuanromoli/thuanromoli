@@ -1,5 +1,10 @@
 <h1>Hi, I'm Thuan!
 
+<h2>📖 Dissertation:</h2>
+
+- [Likelihood ratio test for sphericity under a multivariate normal assumption](https://github.com/thuanromoli/likelihood-ratio-test-for-sphericity)
+
+
 <h2>👨‍💻 University Projects:</h2>
 
 - <b>Applied mathematics</b>
