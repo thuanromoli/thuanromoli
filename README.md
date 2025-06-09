@@ -7,13 +7,20 @@
 
 <h2>👨‍💻 University Projects:</h2>
 
+- <b>Lecture notes</b>
+  - [Lecture notes using Obsidian (markdown and LaTeX)](https://github.com/thuanromoli/undergraduate-lecture-notes)
+
+
 - <b>Applied mathematics</b>
   - [Using Python for understanding a function of two variables](https://github.com/thuanromoli/using-python-for-understanding-a-function-of-two-variables)
   - [Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)
 
+
 - <b>Pure mathematics</b>
   - [Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-coset-representatives)
- 
+
+- <b>Statistics</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
