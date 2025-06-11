@@ -1,23 +1,26 @@
-<h1>Hi, I'm Thuan!
+<h1>Hi, I'm Thuan! </h1>
+
+I have just graduated from the University of St Andrews and since I am currently full-time unemployed, I decided to spend some time organising my projects. I will highlight in bold a few projects I found particularly interesting. You are very welcome to have a look at anything on here!
+
 
 <h2>📖 Dissertation:</h2>
 
-- [Likelihood ratio test for sphericity under a multivariate normal assumption](https://github.com/thuanromoli/likelihood-ratio-test-for-sphericity)
+- **[Likelihood ratio test for sphericity under a multivariate normal assumption](https://github.com/thuanromoli/likelihood-ratio-test-for-sphericity)**
 
 
 <h2>👨‍💻 University Projects:</h2>
 
-- <b>Lecture notes</b>
-  - [Lecture notes using Obsidian (markdown and LaTeX)](https://github.com/thuanromoli/undergraduate-lecture-notes)
+- **[Lecture notes using Obsidian (markdown and LaTeX)](https://github.com/thuanromoli/undergraduate-lecture-notes)**
 
 
 - <b>Applied mathematics</b>
   - [Using Python for understanding a function of two variables](https://github.com/thuanromoli/using-python-for-understanding-a-function-of-two-variables)
-  - [Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)
+  - **[Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)**
+  - [Using Python for modelling populations](https://github.com/thuanromoli/using-python-for-modelling-populations)
 
 
 - <b>Pure mathematics</b>
-  - [Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-coset-representatives)
+  - **[Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-coset-representatives)**
 
 - <b>Statistics</b>
 
