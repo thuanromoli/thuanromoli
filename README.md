@@ -1,6 +1,6 @@
 <h1>Hi, I'm Thuan! </h1>
 
-I have just graduated from the University of St Andrews and since I am currently full-time unemployed, I decided to spend some time organising my projects. I will highlight in bold a few projects I found particularly interesting. You are very welcome to have a look at anything on here!
+I have just graduated from the University of St Andrews and since I am currently full-time unemployed (not by choice), I decided to spend some time organising my projects. I will highlight in bold a few projects I found particularly interesting. You are very welcome to have a look at anything on here!
 
 
 <h2>📖 Dissertation:</h2>
