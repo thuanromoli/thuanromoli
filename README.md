@@ -15,12 +15,13 @@ I have just graduated from the University of St Andrews and since I am currently
 
 - <b>Applied mathematics</b>
   - [Using Python for understanding a function of two variables](https://github.com/thuanromoli/using-python-for-understanding-a-function-of-two-variables)
-  - **[Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)**
   - [Using Python for modelling populations](https://github.com/thuanromoli/using-python-for-modelling-populations)
 
 
 - <b>Pure mathematics</b>
   - **[Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-coset-representatives)**
+  - **[Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)**
+
 
 - <b>Statistics</b>
 
