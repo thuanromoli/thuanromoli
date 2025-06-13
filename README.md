@@ -14,6 +14,7 @@ I have just graduated from the University of St Andrews and since I am currently
 
 
 - <b>Applied mathematics</b>
+  - **[Multivariate interpolation](https://github.com/thuanromoli/multivariate-interpolation)**
   - [Using Python for understanding a function of two variables](https://github.com/thuanromoli/using-python-for-understanding-a-function-of-two-variables)
   - [Using Python for modelling populations](https://github.com/thuanromoli/using-python-for-modelling-populations)
 
