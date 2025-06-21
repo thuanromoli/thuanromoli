@@ -1,6 +1,8 @@
 <h1>Hi, I'm Thuan! </h1>
 
-I have just graduated from the University of St Andrews and since I am currently full-time unemployed (not by choice), I decided to spend some time organising my projects. I will highlight in bold a few projects I found particularly interesting. You are very welcome to have a look at anything on here!
+I have just graduated from the University of St Andrews and since I am currently a full-time unemployed (not by choice), I decided to spend some time organising my projects. You are very welcome to have a look at anything on here!
+
+I will highlight in bold a few projects I found particularly interesting.
 
 
 <h2>📖 Dissertation:</h2>
@@ -21,7 +23,7 @@ I have just graduated from the University of St Andrews and since I am currently
 
 - <b>Pure mathematics</b>
   - **[Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-coset-representatives)**
-  - **[Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)**
+  - [Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)
 
 
 - <b>Statistics</b>
