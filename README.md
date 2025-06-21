@@ -14,12 +14,10 @@ I have just graduated from the University of St Andrews and since I am currently
 
 - **[Lecture notes using Obsidian (markdown and LaTeX)](https://github.com/thuanromoli/undergraduate-lecture-notes)***
 
-
 - <b>Applied mathematics</b>
   - **[Multivariate interpolation](https://github.com/thuanromoli/multivariate-interpolation)***
   - [Using Python for understanding a function of two variables](https://github.com/thuanromoli/using-python-for-understanding-a-function-of-two-variables)
   - [Using Python for modelling populations](https://github.com/thuanromoli/using-python-for-modelling-populations)
-
 
 - <b>Pure mathematics</b>
   - **[Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-coset-representatives)***
@@ -33,4 +31,13 @@ I have just graduated from the University of St Andrews and since I am currently
 
 [<img align="left" alt="Van Thuan Romoli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/thuanromoli/
+[linkedin]: https://www.linkedin.com/in/thuanromoli
+
+<br>
+
+<h2> 🚧 🔨 Currently working on:</h2>
+
+- Extreme value theory threshold modeling of snowfalls in the Alps.
+- Sudoku solvers
+- Game theory optimal strategies
+- Monte Carlo Markov Chain for Bayesian inference.
