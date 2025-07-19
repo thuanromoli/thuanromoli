@@ -20,6 +20,7 @@ I have just graduated from the University of St Andrews and since I am currently
   - [Using Python for modelling populations](https://github.com/thuanromoli/using-python-for-modelling-populations)
 
 - <b>Pure mathematics</b>
+  - **[Backtracking for Sudoku](https://github.com/thuanromoli/backtracking-for-sudoku)***
   - **[Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-coset-representatives)***
   - [Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)
 
@@ -38,6 +39,5 @@ I have just graduated from the University of St Andrews and since I am currently
 <h2> 🚧 🔨 Currently working on:</h2>
 
 - Extreme value theory threshold modeling of snowfalls in the Alps.
-- Sudoku solvers
 - Game theory optimal strategies
 - Monte Carlo Markov Chain for Bayesian inference.
