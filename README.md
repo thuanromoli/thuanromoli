@@ -10,7 +10,7 @@ I have just graduated from the University of St Andrews and I decided to spend s
 - **[Likelihood ratio test for sphericity under a multivariate normal assumption](https://github.com/thuanromoli/likelihood-ratio-test-for-sphericity)***
 
 
-<h2>👨‍💻 University Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - **[Lecture notes using Obsidian (markdown and LaTeX)](https://github.com/thuanromoli/undergraduate-lecture-notes)***
 
