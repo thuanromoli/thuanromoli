@@ -24,9 +24,8 @@ I have just graduated from the University of St Andrews and I decided to spend s
   - **[Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-coset-representatives)***
   - [Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)
 
-
 - <b>Statistics</b>
-
+  - **[Extreme value theory for modelling snowfalls in the Alps](https://github.com/thuanromoli/extreme-value-theory-for-modelling-snowfalls-in-the-alps)***
 
 <h2> 🤳 Connect with me:</h2>
 
