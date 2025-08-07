@@ -36,5 +36,6 @@ I have just graduated from the University of St Andrews and I decided to spend s
 <br>
 
 <h2> 🚧 🔨 Currently working on:</h2>
+
 - Game theory optimal strategies
 - Monte Carlo Markov Chain for Bayesian inference.
