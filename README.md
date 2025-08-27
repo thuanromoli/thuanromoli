@@ -26,6 +26,8 @@ I have just graduated from the University of St Andrews and I decided to spend s
 
 - <b>Statistics</b>
   - **[Extreme value theory for modelling snowfalls in the Alps](https://github.com/thuanromoli/extreme-value-theory-for-modelling-snowfalls-in-the-alps)***
+  - **[Markov chain Monte Carlo for Bayesian inference of DMD disease using BUGS and NIMBLE](https://github.com/thuanromoli/MCMC-for-Bayesian-inference-of-DMD-disease-using-BUGS)***
+
 
 <h2> 🤳 Connect with me:</h2>
 
