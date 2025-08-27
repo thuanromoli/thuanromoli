@@ -4,14 +4,10 @@ I have just graduated from the University of St Andrews and I decided to spend s
 
 *I will highlight in bold a few projects I found particularly interesting.
 
-
-<h2>📖 Dissertation:</h2>
-
-- **[Likelihood ratio test for sphericity under a multivariate normal assumption](https://github.com/thuanromoli/likelihood-ratio-test-for-sphericity)***
-
-<h2>👨‍💻 Longer Projects:</h2>
+<h2>📖 Longer Projects:</h2>
 
 - <b>Statistics</b>
+  - **[Likelihood ratio test for sphericity under a multivariate normal assumption](https://github.com/thuanromoli/likelihood-ratio-test-for-sphericity)***
   - **[Extreme value theory for modelling snowfalls in the Alps](https://github.com/thuanromoli/extreme-value-theory-for-modelling-snowfalls-in-the-alps)***
   - **[Markov chain Monte Carlo for Bayesian inference of DMD disease using BUGS and NIMBLE](https://github.com/thuanromoli/MCMC-for-Bayesian-inference-of-DMD-disease-using-BUGS)***
 
