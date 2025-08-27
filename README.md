@@ -9,24 +9,30 @@ I have just graduated from the University of St Andrews and I decided to spend s
 
 - **[Likelihood ratio test for sphericity under a multivariate normal assumption](https://github.com/thuanromoli/likelihood-ratio-test-for-sphericity)***
 
+<h2>👨‍💻 Longer Projects:</h2>
+
+- <b>Statistics</b>
+  - **[Extreme value theory for modelling snowfalls in the Alps](https://github.com/thuanromoli/extreme-value-theory-for-modelling-snowfalls-in-the-alps)***
+  - **[Markov chain Monte Carlo for Bayesian inference of DMD disease using BUGS and NIMBLE](https://github.com/thuanromoli/MCMC-for-Bayesian-inference-of-DMD-disease-using-BUGS)***
+
+- <b>Pure mathematics</b>
+  - **[Backtracking for Sudoku](https://github.com/thuanromoli/backtracking-for-sudoku)***
+
 
 <h2>👨‍💻 Projects:</h2>
 
 - **[Lecture notes using Obsidian (markdown and LaTeX)](https://github.com/thuanromoli/undergraduate-lecture-notes)***
 
 - <b>Applied mathematics</b>
-  - **[Multivariate interpolation](https://github.com/thuanromoli/multivariate-interpolation)***
+  - [Multivariate interpolation](https://github.com/thuanromoli/multivariate-interpolation)
   - [Using Python for understanding a function of two variables](https://github.com/thuanromoli/using-python-for-understanding-a-function-of-two-variables)
   - [Using Python for modelling populations](https://github.com/thuanromoli/using-python-for-modelling-populations)
 
 - <b>Pure mathematics</b>
-  - **[Backtracking for Sudoku](https://github.com/thuanromoli/backtracking-for-sudoku)***
-  - **[Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-coset-representatives)***
+  - [Constructing quotient groups using coset representatives](https://github.com/thuanromoli/constructing-quotient-groups-using-coset-representatives)
   - [Making change, tiling, and Fibonacci’s sequence in combinatorics](https://github.com/thuanromoli/making-change-and-tiling-and-fibonacci-sequence-in-combinatorics)
 
-- <b>Statistics</b>
-  - **[Extreme value theory for modelling snowfalls in the Alps](https://github.com/thuanromoli/extreme-value-theory-for-modelling-snowfalls-in-the-alps)***
-  - **[Markov chain Monte Carlo for Bayesian inference of DMD disease using BUGS and NIMBLE](https://github.com/thuanromoli/MCMC-for-Bayesian-inference-of-DMD-disease-using-BUGS)***
+
 
 
 <h2> 🤳 Connect with me:</h2>
