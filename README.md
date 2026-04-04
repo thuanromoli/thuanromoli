@@ -41,4 +41,12 @@ I have just graduated from the University of St Andrews and I decided to spend s
 
 <h2> 🚧 🔨 Currently working on:</h2>
 
-- Game theory optimal strategies
+- Game theory optimal strategies.
+- Overhaul of lecture notes to include Imperial lecture notes.
+- Numerical solutions to various non-linear PDEs.
+- Dynamic optimisation and optimal control.
+- Adversarial attacks.
+- Mixture of Bernoulli products.
+- Gaussian process modeling pipeline.
+- Variational autoencoders.
+- Transformer models.
