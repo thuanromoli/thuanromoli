@@ -4,7 +4,7 @@ I have just graduated from Imperial College London and I decided to spend some t
 
 <h2>🎓 Thesis preprint:</h2>
 
-- [Likelihood ratio test for sphericity under a multivariate normal assumption](https://github.com/thuanromoli/likelihood-ratio-test-for-sphericity)
+- [Functional autoregressive transformers as Markov processes](https://github.com/thuanromoli/2027-01-functional-autoregressive-transformers-as-markov-chains)
 
 <h2>📖 Longer Projects:</h2>
 
